@@ -1,0 +1,51 @@
+a:hover{
+	color: #FFB164;
+	text-decoration: none;
+}
+header{
+	height: 150px;
+
+}
+
+section.login-wraper{
+	width: 300px;
+	margin: 0px auto;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+
+section.login-wraper  ul {
+	list-style: none;
+}
+section.login-wraper  ul li{
+	color: red;
+
+}
+section.login-wraper section {
+	text-align: right;
+}
+
+/*==============nav===============*/
+
+nav ul{
+	list-style: none;
+}
+nav ul li{
+	display:inline;
+
+}
+nav ul li a:hover{
+	color: #F4824A;
+	text-decoration: none;
+}
+/*==============footer===========*/
+footer{
+	width: 300px;
+	margin: 0px auto;
+
+}
+footer p{
+	float: right;
+	font-weight: bold;
+}
